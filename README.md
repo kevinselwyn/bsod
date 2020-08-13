@@ -1,19 +1,19 @@
-#bsod
+# bsod
 
 Blue Screen of Death
 
-##Installation
+## Installation
 
 ```
 make && sudo make install
 ```
 
-##Usage
+## Usage
 
 ```
 ./bsod
 ```
 
-##Example
+## Example
 
 ![BSOD](bsod.png)
